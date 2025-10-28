@@ -14,3 +14,6 @@ Here are the important resources for Test Automation, Test Management, and Test 
 
 3.  **[Test Manager Startup Guide](https://github.com/klemmb/SQE/blob/main/TestManagerStartup.md)**
     * *Instructions and checklists for a new Test Manager's initial steps and responsibilities.*
+4.  **[Test Engineering Competency Framework](https://github.com/klemmb/SQE/blob/main/TestEngineeringCompetencyFramework.md)**
+    * *Test Engineering Competency Framework.*  
+    * https://github.com/klemmb/SQE/blob/main/TestEngineeringCompetencyFramework.md
